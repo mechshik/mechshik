@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mechshik
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on java and javascript
-- 📫 How to reach me message or e-mail
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on HTML, CSS , JavaScript and ReactJS
+- 📫 How to reach me message or e-mail shikharkumarmall@gmail.com
+- 
 
 <!---
 mechshik/mechshik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
